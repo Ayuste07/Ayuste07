@@ -11,8 +11,7 @@
 
 - 🔎 How can you contact me? **alejandro.yuste2007@gmail.com or Ayuste07 in linkedin!**
 
-- 📄 Know about my experiences [I've been working as Helpdesk Agent for 6 months](I've been working as Helpdesk Agent for 6 months)
-
+- 📄 Know about my experiences [I've been working as Helpdesk Agent for 6 months]
 - ⚡ Fun fact **I love to be creative!**
 
 <h3 align="left">Connect with me:</h3>
