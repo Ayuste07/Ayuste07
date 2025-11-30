@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Yuste</h1>
 <h3 align="center">Frontend developer, AI, Cibersecurity...</h3>
 
-- 🌱 I’m currently Studying **Microcomputer systems in networks**
+- 🌱 I’m currently Studying **Microcomputer systems and networks**
 
 - 😎 Some of my projects: **There's nothing now, I keep working on it!**
 
