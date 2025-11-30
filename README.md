@@ -1,15 +1,13 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Alejandro yuste</h1>
+<h1 align="center">Hi 👋, I'm Alejandro Yuste</h1>
 <h3 align="center">Frontend developer, AI, Cibersecurity...</h3>
 
 - 🌱 I’m currently Studying **Microcomputer systems in networks**
 
-- 😎 Some of my projects **There's nothing now, keep working on it!**
+- 😎 Some of my projects: **There's nothing now, I keep working on it!**
 
-- 🔭 I wanna do **Cybersecurity**
-
-- 👨‍💻 All of my projects are available at [my profile or portfolio](my profile or portfolio)
+- 🔭 I wanna do **Cybersecurity, and im interested on AI**
 
 - 🔎 How can you contact me? **alejandro.yuste2007@gmail.com or Ayuste07 in linkedin!**
 
